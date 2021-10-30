@@ -1,4 +1,3 @@
-# author-ly.com
-Website for content creation agency. 
+# www.authorly.in
 
-Technologies used: LAMP Stack, HTML5, CSS, PHP, JavaScript.
+Website for content creation agency.
