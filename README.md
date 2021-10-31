@@ -1,3 +1,3 @@
 # www.authorly.in
 
-Website for content creation agency.
+This is a static website for content creation agency. It uses simple HTML/CSS with JS to accept user entered data and stored that into a third pary service hosted by pageclip.io.
